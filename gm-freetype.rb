@@ -1,4 +1,4 @@
-class Gmfreetype < Formula
+class GmFreetype < Formula
     desc "Image processing tools collection"
     homepage "http://www.graphicsmagick.org/"
     url "https://downloads.sourceforge.net/project/graphicsmagick/graphicsmagick/1.3.42/GraphicsMagick-1.3.42.tar.xz"
